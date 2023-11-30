@@ -1,0 +1,14 @@
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\bin\Debug\net6.0\MandatoryTest.exe
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\bin\Debug\net6.0\MandatoryTest.deps.json
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\bin\Debug\net6.0\MandatoryTest.runtimeconfig.json
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\bin\Debug\net6.0\MandatoryTest.dll
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\bin\Debug\net6.0\MandatoryTest.pdb
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\obj\Debug\net6.0\MandatoryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\obj\Debug\net6.0\MandatoryTest.AssemblyInfoInputs.cache
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\obj\Debug\net6.0\MandatoryTest.AssemblyInfo.cs
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\obj\Debug\net6.0\MandatoryTest.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\obj\Debug\net6.0\MandatoryTest.dll
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\obj\Debug\net6.0\refint\MandatoryTest.dll
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\obj\Debug\net6.0\MandatoryTest.pdb
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\obj\Debug\net6.0\MandatoryTest.genruntimeconfig.cache
+C:\Users\Gabriel Straube\source\repos\MandatoryTest\MandatoryTest\obj\Debug\net6.0\ref\MandatoryTest.dll
