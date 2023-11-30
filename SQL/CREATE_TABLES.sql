@@ -27,7 +27,7 @@ REFERENCES [dbo].[Category] ([Id])
 GO
 
 ALTER TABLE [dbo].[FinancialInstrument] CHECK CONSTRAINT [FK_FinancialInstrument_Category]
-GO
+GO  
 
 
 
