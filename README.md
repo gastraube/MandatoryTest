@@ -1,5 +1,7 @@
 ## Teste para Instituição Financeira
 
+Como executar: rodando o Console pelo Visual Studio e apenas colando os inputs no Console e dando enter.
+
 ## Question 1. Categorizing Financial Instruments in a Portfolio
 Context:
 
